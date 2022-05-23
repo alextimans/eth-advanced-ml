@@ -1,0 +1,12 @@
+# for all projects
+
+numpy
+pandas
+matplotlib
+sklearn
+lightgbm
+neurokit2
+tsfresh
+tsfel
+biosppy
+pyeeg
