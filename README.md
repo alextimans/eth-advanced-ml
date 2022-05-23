@@ -14,7 +14,7 @@ Evaluation metric: balanced multiclass accuracy. <br>
 After trying different classifiers and methods it turned out that a standard balanced SVM Classifier performed best.
 
 ## Project 3
-Task: Multi-class classification of ECG time series data. The dataset was featured in the PhysioNet 2017 challenge [[1]](https://ieeexplore.ieee.org/abstract/document/8331486). <br>
+Task: Multi-class classification of ECG time series data. The dataset was featured in the [PhysioNet 2017](https://ieeexplore.ieee.org/abstract/document/8331486) challenge. <br>
 Challenges: Domain-specific manual feature extraction e.g. heartbeat frequency, amplitude, interval segment durations etc. <br>
 Evaluation metric: F1-Score. <br>
 The finally selected model by a team colleague included outlier detection with IsolationForest and classification with GradientBoostingClassifier.
